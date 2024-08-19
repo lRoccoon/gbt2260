@@ -3,7 +3,7 @@ package gbt2260_test
 import (
 	"testing"
 
-	"github.com/ppmoon/gbt2260"
+	"github.com/lRoccoon/gbt2260"
 )
 
 func TestBGT2260_SearchGBT2260(t *testing.T) {
